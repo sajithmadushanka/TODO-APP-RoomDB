@@ -21,13 +21,13 @@
 
             <TextView
                 android:id="@+id/welcomeTxt"
-                android:layout_width="200dp"
+                android:layout_width="176dp"
                 android:layout_height="wrap_content"
                 android:layout_alignParentStart="true"
                 android:layout_alignParentEnd="true"
-                android:layout_marginStart="30dp"
+                android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
-                android:layout_marginEnd="242dp"
+                android:layout_marginEnd="219dp"
                 android:text="MAD Lab 04"
                 android:textColor="@color/white"
                 android:textSize="18sp"
